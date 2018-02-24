@@ -28,7 +28,7 @@ import com.tienda.online.services.UsuarioServices;
 @RestController
 @RequestMapping("/usuario")
 public class UsuarioController {
-
+//Atributos de prueba
 	private static Logger logger = LoggerFactory.getLogger(UsuarioController.class);
 	
 	private UsuarioServices usuarioServices;
